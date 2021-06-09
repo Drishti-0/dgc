@@ -1,0 +1,16 @@
+.container{
+    background-color: pink;
+    border: 20px solid blue;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+}
+body{
+    background-color: black;
+}
+#clock{
+    font-size: 40px;
+}
